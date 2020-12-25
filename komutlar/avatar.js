@@ -12,7 +12,6 @@ module.exports.run = async (Client, interaction, args) => {
 
 let embed = new Discord.MessageEmbed()
 .setAuthor(user.tag, user.displayAvatarURL({ dynamic: true }))
-.setTitle('Avatar')
 .setImage(user.displayAvatarURL({ dynamic: true, size: 512 }));
                      
 Client.api.interactions(interaction.id, interaction.token).callback.post({
