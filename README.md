@@ -1,6 +1,4 @@
 # Discord.js'de "/" Komutları Ekleme  / Örnek Oto Rol Komutu
- 
-## Genel Anlatım - Laweis#0999 Tarafından Hazırlanmıştır.
 
 ---
 "/" komutları Discord'da Aralık 2020 tarihinde güncellenip botlar için daha kapsamlı hale getirilen bir özelliktir bu özelliği kullanmak için yapmanız gereken tek şey bir metin kanalına "/" yazmak.
